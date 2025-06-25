@@ -1,0 +1,19 @@
+-Cuando se crea un nuevo usuario, preguntar por permisos de edición (qué funcionalidades tener) tendrá el usuario que está siendo creado
+
+-Personalizar con temas y fondos personalizados, añadir filtros de daltonismo personalizado e incrementar el tamaño fuente y botones (opcional)
+
+-Atajos y layouts preferidos (Opcional)
+
+-Colores (RGB) en componentes de fondo con colores de aves (El color por default será el del quetzal)
+    a) Quetzal.-
+        Verde esmeralda: 40, 114, 51
+        Azul gris: 102, 153, 204
+        Vermillion (Rojo): 255, 60, 56
+
+        Complementarios - Calabaza (Naranja): 255, 140, 66, Rojo madera: 162, 62, 72
+
+-Incorporar 2 modos: Empleado de caja (Administrador, cajero) y caja automática (Clientes).
+
+-El inventario iría con el panel de agregar productos
+
+-Agregar un catalogo de productos en el panel ventas

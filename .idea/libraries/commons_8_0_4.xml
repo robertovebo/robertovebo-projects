@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-8.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/flatlaf-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/io-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/kernel-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/layout-8.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-api-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-simple-2.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
